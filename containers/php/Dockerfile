@@ -1,4 +1,4 @@
-FROM php:8.1-fpm
+FROM php:8.3-fpm
  
 ARG USER='1000'
 ARG USER=${USER_ID}
